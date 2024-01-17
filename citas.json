@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "Juan",
+    "edad": "25",
+    "color": "Azul",
+    "enfermedad": "Resfriado"
+  },
+  {
+    "nombre": "max",
+    "edad": "29",
+    "color": "rojo",
+    "enfermedad": "operacion"
+  }
+]
